@@ -15,7 +15,7 @@
 
 1. Склонировать этот репозиторий себе на компьютер;  
 
-`git@github.com:jeleshy/test-task.git`  
+`git clone git@github.com:jeleshy/test-task.git`  
 
 *При возникновении ssh-ошибок, нужно добавить публичный ssh-ключ к Вашему gitHub аккаунту. Подробнее про [привязку](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ssh-ключа и про его [генерацию](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)*
 
