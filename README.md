@@ -17,7 +17,7 @@
 
 `git clone git@github.com:jeleshy/test-task.git`  
 
-*При возникновении ssh-ошибок, нужно добавить публичный ssh-ключ к Вашему gitHub аккаунту. Подробнее про [привязку](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ssh-ключа и про его [генерацию](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)*
+*При возникновении ssh-ошибок (или Permission denied (publickey)), нужно добавить публичный ssh-ключ к Вашему gitHub аккаунту. Подробнее про [привязку](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) ssh-ключа и про его [генерацию](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)*
 
 2. Установить [python](https://www.python.org/about/gettingstarted), [pytest](https://docs.pytest.org/en/8.2.x/getting-started.html) и [playwright](https://playwright.dev/python/docs/intro);
 
